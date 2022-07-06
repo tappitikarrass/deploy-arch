@@ -1,0 +1,23 @@
+{
+  "user": {
+    "name": "archie"
+  },
+  "dotfiles": {
+    "git": "https://github.com/tappitikarrass/dotfiles",
+    "branch": "rolling",
+    "dir": ".dotfiles"
+  },
+  "scripts": {
+    "git": "https://github.com/tappitikarrass/scripts",
+    "branch": "main",
+    "path": ".local/scripts"
+  },
+  "suckless": {
+    "git": "https://github.com/tappitikarrass",
+    "branch": "main",
+    "path": ".local/suckless/dwm"
+  },
+  "docker": {
+    "data_path": "/mnt/data/docker"
+  }
+}
